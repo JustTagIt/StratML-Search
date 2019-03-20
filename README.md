@@ -3,7 +3,7 @@ Functions to explore StratML files
 
 
 
-This repository contains a folder, "xml", that holds XML files marked up in StratML vocabulary.  This folder also has a stylesheet file, 'stratml.xsl' that is called in one of the example routines.  The instructions here are to be able to load up this folder in a native XML database (BaseX) and query with some XQuery routines
+This repository contains a zipped folder, "xml", that holds XML files marked up in StratML vocabulary.  This folder also has a stylesheet file, 'stratml.xsl' that is called in one of the example routines.  The instructions here are to be able to load up this folder in a native XML database (BaseX) and query with some XQuery routines
 
 
 
